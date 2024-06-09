@@ -21,12 +21,12 @@ To install CUDA and cuDNN, follow these steps:
 
 3. Make the script executable by running the following command:
    ```bash
-   $ chmod +x 1_CUDAcuDNN.sh
+   chmod +x 1_CUDAcuDNN.sh
    ```
 
 4. Execute the script by running:
    ```bash
-   $ ./1_CUDAcuDNN.sh
+   ./1_CUDAcuDNN.sh
    ```
 
 5. Follow the on-screen instructions to complete the installation. The script will guide you through the process of installing CUDA and cuDNN, setting up environment variables, and verifying the installation.
@@ -41,12 +41,12 @@ To install TensorFlow, follow these steps:
 
 3. Make the script executable by running the following command:
    ```bash
-   $ chmod +x @_install_tf.sh
+   chmod +x @_install_tf.sh
    ```
 
 4. Execute the script by running:
    ```bash
-   $ ./@_install_tf.sh
+   ./@_install_tf.sh
    ```
 
 5. Follow the on-screen instructions to complete the installation. The script will guide you through the process of creating a virtual environment, installing TensorFlow, and verifying the installation.
@@ -66,12 +66,12 @@ To install TensorRT, follow these steps:
 
 3. Make the script executable by running the following command:
    ```bash
-   $ chmod +x 3_install_tensorrt.sh
+   chmod +x 3_install_tensorrt.sh
    ```
 
 4. Execute the script by running:
    ```bash
-   $ ./3_install_tensorrt.sh
+   ./3_install_tensorrt.sh
    ```
 
 5. Follow the on-screen instructions to complete the installation. The script will guide you through the process of installing TensorRT, Python bindings, additional packages, setting environment variables, and verifying the installation.
