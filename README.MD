@@ -89,4 +89,4 @@ Here's how to use the cleanup script:
 
 
 This will remove unnecessary files and configurations to keep your system clean after setting up the NVIDIA GPU environment for deep learning.
-```
+
